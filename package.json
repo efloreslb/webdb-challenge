@@ -1,0 +1,8 @@
+{
+  "name": "webdb-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/efloreslb/webdb-challenge.git",
+  "author": "Edgar F <eflores.ef@gmail.com>",
+  "license": "MIT"
+}
